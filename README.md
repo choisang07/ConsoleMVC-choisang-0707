@@ -33,4 +33,4 @@ Visual Studio에서 `ConsoleMVC.slnx`를 열어 빌드 및 실행한다 (C++20, 
 
 ## 참고
 
-- 본 PoC는 [SampleOrderSystem (Project17)](../Project17) 본 프로젝트와 분리된 별도 저장소이며, 여기서 검증된 구조를 본 프로젝트의 MVC 구조 설계 기반으로 사용한다.
+- 본 PoC는 SampleOrderSystem 본 프로젝트와 분리된 별도 저장소이며, 여기서 검증된 구조를 본 프로젝트의 MVC 구조 설계 기반으로 사용한다.
